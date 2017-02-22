@@ -1,4 +1,4 @@
 # remote-repo
 It is the repo.
 
-I am adding a state for demo-branch
+I am adding a state for test-branch
